@@ -1,1 +1,0 @@
-Analysing multi-aspects for linking numbers in maze solver
